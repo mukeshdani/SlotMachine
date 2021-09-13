@@ -1,11 +1,35 @@
+
 .heading_style {
   padding: 30px 0;
   text-align: center;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: sans-serif;
    text-transform: uppercase;
    letter-spacing: 2px;
    font-weight: 500;
-   background-color: #fff;
+   background-color: #f1f1f1;
    font-size: 1.5em;
    margin-bottom: 30px;
 }
+
+.Slotmachine {
+  border: 4px solid black;
+  margin-left: 470px ;
+  margin-top: 0px;
+  width: 400px;
+  height: auto;
+  background-color: chartreuse;
+  border-radius: 8px;
+
+  
+}
+.Slot_inner {
+  padding: 3px 0;
+  text-align: center;
+  font-family: sans-serif;
+   text-transform: uppercase;
+   font-weight: bold;
+   font-size: 1em;
+   margin-bottom: 3px;
+}
+
+
